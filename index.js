@@ -30,7 +30,7 @@ var cerutu = {
   waktu: 1000
 }
 
-beli(500000, permen, function(kembalian){
+beli(50000, permen, function(kembalian){
   beli(kembalian, bir, function(kembalian){
     beli(kembalian, mekdi, function(kembalian){
       beli(kembalian, beras, function(kembalian){
